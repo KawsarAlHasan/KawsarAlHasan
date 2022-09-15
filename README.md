@@ -9,7 +9,9 @@ I love to design through coding. I like to do neat and clean code, which makes m
 So if you think we can work together and do something great, then feel free to give me a knock!
 
 ✉ kawsaralhasan.420@gmail.com
+
 ☏: +88 01733755698
+
 🏠Barguna, Bangladesh
 
 Skills: JavaScript, React.js, Redux, Html5, Tailwind CSS, Bootstrap-5, CSS3, MongoDB, Node.js, Express.js, Socket IO 🚀🚀
