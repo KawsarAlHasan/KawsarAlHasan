@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kawsar Al Hasan
 #### Frontend Developer || Full Stack Developer with React.js , Node.js Express.js and MongoDB🚀
-![Frontend Developer || Full Stack Developer with React.js , Node.js Express.js and MongoDB🚀](https://i.ibb.co/8X10Rpm/wp8904080.png)
+
 
 I am a MERN Stack Web Developer. I love to work with dedication, and I always try to get people's love through my work. My strong suit is Front End Web Development with React Js, Redux, HTML & CSS, JavaScript, Bootstrap 5, Tailwind, DaisyUi, and Socket.
 
