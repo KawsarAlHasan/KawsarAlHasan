@@ -18,7 +18,7 @@ Skills: JavaScript, React.js, Redux, Html5, Tailwind CSS, Bootstrap-5, CSS3, Mon
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KawsarAlHasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kawsar-al-hasan-1b985420a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/kawsar.alhasan.58/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/kawsar.alhasan.58//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/kawsaralhasan2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://thunderous-empanada-7596fa.netlify.app/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KawsarAlHasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kawsar-al-hasan-1b985420a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/kawsar.alhasan.58/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/kawsar.alhasan.58//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/kawsaralhasan2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://thunderous-empanada-7596fa.netlify.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://docs.google.com/document/d/1IR4dP734GfaiyRgLDejsCPkg59b0aZE1Pf9xgUsGw_w/edit?usp=sharing)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KawsarAlHasan)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -31,7 +31,5 @@ Skills: JavaScript, React.js, Redux, Html5, Tailwind CSS, Bootstrap-5, CSS3, Mon
 ![GitHub metrics](https://metrics.lecoq.io/KawsarAlHasan)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KawsarAlHasan)  
-
-![Profile views](https://gpvc.arturio.dev/KawsarAlHasan)  
 
 ![Profile views](https://gpvc.arturio.dev/KawsarAlHasan)  
