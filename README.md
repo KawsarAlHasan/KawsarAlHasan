@@ -33,3 +33,5 @@ Skills: JavaScript, React.js, Redux, Html5, Tailwind CSS, Bootstrap-5, CSS3, Mon
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KawsarAlHasan)  
 
 ![Profile views](https://gpvc.arturio.dev/KawsarAlHasan)  
+
+![Profile views](https://gpvc.arturio.dev/KawsarAlHasan)  
